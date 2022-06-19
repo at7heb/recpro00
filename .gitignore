@@ -27,3 +27,5 @@ recpro00-*.tar
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+rkiv-ins/
+rkiv-out/

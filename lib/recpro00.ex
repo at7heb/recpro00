@@ -8,11 +8,11 @@ defmodule Recpro00 do
 
   ## Examples
 
-      iex> Recpro00.hello()
-      :world
+      iex> Recpro00.example()
+      {:ok, "example"}
 
   """
-  def hello do
-    :world
+  def example do
+    {:ok, "example"}
   end
 end
