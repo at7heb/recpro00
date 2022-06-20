@@ -20,3 +20,6 @@ Want to give it a list of tasks, specifying
 + maybe file for graph
 
 Use Elixir
+
+I acknowledge my use of the work of the CMU SPHINX project for the dictionary.
+My thanks to the CMU folks who created this.
