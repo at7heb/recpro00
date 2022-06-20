@@ -29,3 +29,4 @@ recpro00-*.tar
 .elixir_ls/
 rkiv-ins/
 rkiv-out/
+.DS_STORE
